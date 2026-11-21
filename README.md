@@ -1,4 +1,4 @@
-# Syntex × Setareh Aval — Portfolio
+# Syntex — Portfolio for Setareh Aval
 
 Interactive presentation tailored for Setareh Aval (online sales of Hamrah-e Aval products).
 
