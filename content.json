@@ -1,12 +1,12 @@
 {
  "meta": {
-  "title": "Syntex — Statement of Capabilities",
+  "title": "سینتکس — بیانیه توانمندی‌ها",
   "viewLink": "",
   "chapters": {
-   "intro": "Introduction",
-   "work": "Track Record",
-   "cap": "Capabilities",
-   "contact": "Contact"
+   "intro": "معرفی",
+   "work": "سوابق اجرایی",
+   "cap": "توانمندی‌ها",
+   "contact": "تماس"
   }
  },
  "slides": [
@@ -15,54 +15,54 @@
    "kind": "cover",
    "chapter": "intro",
    "title": "Syntex",
-   "date": "Autumn 2026",
+   "date": "پاییز ۱۴۰۵",
    "docTitle": [
-    "Statement of Capabilities, Track Record and Technical Capacity"
+    "بیانیه توانمندی‌ها، سوابق اجرایی و ظرفیت فنی"
    ]
   },
   {
    "id": "div-intro",
    "kind": "image",
    "chapter": "intro",
-   "title": "Introduction",
+   "title": "معرفی",
    "src": "img/div-intro.webp",
-   "alt": "Introduction",
-   "overlay": "Introduction"
+   "alt": "معرفی",
+   "overlay": "معرفی"
   },
   {
    "id": "about",
    "kind": "about",
    "chapter": "intro",
-   "eyebrow": "About Syntex",
-   "title": "Digital Solutions and Intelligent Automation",
-   "body": "Syntex combines current technology with careful product work to streamline complex processes and automate them, shaped around the needs of each organisation.",
+   "eyebrow": "درباره سینتکس",
+   "title": "راهکارهای دیجیتال و اتوماسیون هوشمند",
+   "body": "سینتکس فناوری روز را با کار محصولی دقیق ترکیب می‌کند تا فرایندهای پیچیده را ساده و خودکار کند؛ راهکاری که برای نیاز هر سازمان شکل می‌گیرد.",
    "sats": [
     {
      "icon": "code",
      "color": "#DDB12A",
-     "label": "Modern solutions"
+     "label": "راهکارهای نوین"
     },
     {
      "icon": "refresh",
      "color": "#9AA4B2",
-     "label": "Process optimisation"
+     "label": "بهینه‌سازی فرایندها"
     }
    ],
    "tags": [
     {
      "icon": "shield-check",
      "color": "#5FD0F4",
-     "label": "Proven, well-researched innovation"
+     "label": "نوآوری اثبات‌شده و مبتنی بر پژوهش"
     },
     {
      "icon": "layers",
      "color": "#38C99A",
-     "label": "Engineered, scalable systems"
+     "label": "سامانه‌های مهندسی‌شده و مقیاس‌پذیر"
     },
     {
      "icon": "globe",
      "color": "#F2994A",
-     "label": "Aligned with current global technology"
+     "label": "همسو با فناوری روز دنیا"
     }
    ]
   },
@@ -70,41 +70,41 @@
    "id": "problem",
    "kind": "problem",
    "chapter": "intro",
-   "eyebrow": "Introduction | Problem and Solution",
-   "title": "Upgrading Organisational Processes",
+   "eyebrow": "معرفی | مسئله و راه‌حل",
+   "title": "ارتقای فرایندهای سازمانی",
    "problem": {
-    "label": "Problem",
-    "text": "Organisational processes are usually spread across disconnected systems, spreadsheets and manual coordination. Each request changes hands several times, the same data is kept in several places, and even a simple report can take days.",
+    "label": "مسئله",
+    "text": "فرایندهای سازمانی معمولاً میان سامانه‌های جدا از هم، فایل‌های اکسل و هماهنگی دستی پراکنده‌اند. هر درخواست چند بار دست‌به‌دست می‌شود، یک داده در چند جا نگهداری می‌شود و حتی یک گزارش ساده چند روز زمان می‌برد.",
     "outs": [
      {
       "icon": "clock",
-      "label": "Lost time"
+      "label": "اتلاف وقت"
      },
      {
       "icon": "coins",
-      "label": "Higher costs"
+      "label": "افزایش هزینه"
      },
      {
       "icon": "gauge",
-      "label": "Lower productivity"
+      "label": "کاهش بهره‌وری"
      }
     ]
    },
    "solution": {
-    "label": "Solution",
-    "text": "We redesign the process around how teams actually work and build one integrated system for it. Data is entered once, repetitive work is automated, and managers see the current status on a live dashboard.",
+    "label": "راه‌حل",
+    "text": "فرایند را بر اساس شیوه واقعی کار تیم‌ها بازطراحی می‌کنیم و یک سامانه یکپارچه برایش می‌سازیم. داده فقط یک بار ثبت می‌شود، کارهای تکراری خودکار می‌شوند و مدیران وضعیت لحظه‌ای را روی داشبورد زنده می‌بینند.",
     "outs": [
      {
       "icon": "coins",
-      "label": "Lower costs"
+      "label": "هزینه کمتر"
      },
      {
       "icon": "zap",
-      "label": "Faster decisions"
+      "label": "تصمیم‌گیری سریع‌تر"
      },
      {
       "icon": "users",
-      "label": "Better user experience"
+      "label": "تجربه کاربری بهتر"
      }
     ]
    }
@@ -113,28 +113,28 @@
    "id": "philosophy",
    "kind": "pillars",
    "chapter": "intro",
-   "eyebrow": "Introduction | Product Philosophy",
-   "title": "We Build Products People Actually Want to Use",
+   "eyebrow": "معرفی | فلسفه محصول",
+   "title": "محصولی می‌سازیم که مردم واقعاً بخواهند از آن استفاده کنند",
    "items": [
     {
      "icon": "target",
-     "title": "The right solution in the right place",
-     "text": "Before the first line of code, we study the current process up close to see where AI is needed and where a simpler form is enough."
+     "title": "راه‌حل درست در جای درست",
+     "text": "پیش از نوشتن اولین خط کد، فرایند فعلی را از نزدیک بررسی می‌کنیم تا ببینیم کجا به هوش مصنوعی نیاز است و کجا یک فرم ساده کافی است."
     },
     {
      "icon": "sparkle",
-     "title": "Strategic innovation",
-     "text": "We spend innovation where it moves the organisation towards its goals. Every new capability is tied to a measurable indicator."
+     "title": "نوآوری راهبردی",
+     "text": "نوآوری را جایی خرج می‌کنیم که سازمان را به اهدافش نزدیک‌تر کند. هر قابلیت جدید به یک شاخص قابل‌اندازه‌گیری گره می‌خورد."
     },
     {
      "icon": "layers",
-     "title": "Better organisational management",
-     "text": "Systems are designed with roles, access levels and management reports, so each manager sees exactly what they need to decide."
+     "title": "مدیریت بهتر سازمان",
+     "text": "سامانه‌ها با نقش، سطح دسترسی و گزارش مدیریتی طراحی می‌شوند تا هر مدیر دقیقاً همان چیزی را ببیند که برای تصمیم‌گیری لازم دارد."
     },
     {
      "icon": "pen",
-     "title": "Creativity in the product",
-     "text": "Sometimes a small idea makes a hard task simple, like a map in Jaygah that draws the route to a library seat by itself."
+     "title": "خلاقیت در محصول",
+     "text": "گاهی یک ایده کوچک کار سخت را ساده می‌کند؛ مثل نقشه‌ای در «جایگاه» که مسیر رسیدن به صندلی کتابخانه را خودش ترسیم می‌کند."
     }
    ]
   },
@@ -142,39 +142,39 @@
    "id": "approach",
    "kind": "approach",
    "chapter": "intro",
-   "eyebrow": "Introduction | Our Approach",
-   "title": "Turning Complex Ideas into Focused Product Experiences",
+   "eyebrow": "معرفی | رویکرد ما",
+   "title": "تبدیل ایده‌های پیچیده به تجربه‌های محصولی متمرکز",
    "rings": [
-    "Strategy",
-    "Design",
-    "Engineering"
+    "راهبرد",
+    "طراحی",
+    "مهندسی"
    ],
-   "lead": "Every project is shaped by the organisation's real needs, the right product positioning, and intelligent systems built to support its growth.",
-   "label": "Experience-led",
-   "subtitle": "Understanding complex ideas and processes before proposing a solution",
-   "body": "An accurate solution to a complex process needs current knowledge, experience and close teamwork."
+   "lead": "هر پروژه بر اساس نیازهای واقعی سازمان، جایگاه درست محصول و سامانه‌های هوشمندی شکل می‌گیرد که از رشد آن پشتیبانی می‌کنند.",
+   "label": "تجربه‌محور",
+   "subtitle": "پیش از ارائه راه‌حل، ایده‌ها و فرایندهای پیچیده را خوب می‌فهمیم",
+   "body": "راه‌حل دقیق برای یک فرایند پیچیده به دانش روز، تجربه و همکاری نزدیک نیاز دارد."
   },
   {
    "id": "culture",
    "kind": "culture",
    "chapter": "intro",
-   "eyebrow": "Introduction | Product Thinking, Careful Delivery",
-   "title": "How We Work",
+   "eyebrow": "معرفی | تفکر محصولی، تحویل دقیق",
+   "title": "شیوه کار ما",
    "items": [
     {
      "icon": "refresh",
-     "title": "Agile delivery",
-     "text": "Work moves in short sprints. Each sprint ends with a usable release, and we set the next priorities together."
+     "title": "تحویل چابک",
+     "text": "کار در اسپرینت‌های کوتاه پیش می‌رود. هر اسپرینت با یک نسخه قابل‌استفاده تمام می‌شود و اولویت‌های بعدی را با هم تعیین می‌کنیم."
     },
     {
      "icon": "users",
-     "title": "Working with your teams",
-     "text": "We work with technical units and end users from day one. Feedback is applied within the same cycle instead of waiting for the end of the project."
+     "title": "کار در کنار تیم‌های شما",
+     "text": "از روز اول با واحدهای فنی و کاربران نهایی کار می‌کنیم. بازخوردها در همان چرخه اعمال می‌شوند و منتظر پایان پروژه نمی‌مانیم."
     },
     {
      "icon": "chart",
-     "title": "Regular reporting",
-     "text": "Progress reports cover work completed, work in progress, and risks that need an early decision."
+     "title": "گزارش‌دهی منظم",
+     "text": "گزارش پیشرفت شامل کارهای انجام‌شده، کارهای در جریان و ریسک‌هایی است که به تصمیم زودهنگام نیاز دارند."
     }
    ]
   },
@@ -182,63 +182,63 @@
    "id": "div-portfolio",
    "kind": "image",
    "chapter": "work",
-   "title": "Track Record",
+   "title": "سوابق اجرایی",
    "src": "img/div-portfolio.webp",
-   "alt": "Track Record",
-   "overlay": "Track Record"
+   "alt": "سوابق اجرایی",
+   "overlay": "سوابق اجرایی"
   },
   {
    "id": "clients",
    "kind": "clients",
    "chapter": "work",
-   "eyebrow": "Track Record",
-   "title": "Clients of Selected Projects",
+   "eyebrow": "سوابق اجرایی",
+   "title": "کارفرمایان پروژه‌های منتخب",
    "logos": [
     {
      "src": "img/logo-sharif.png",
-     "name": "Sharif University of Technology",
+     "name": "دانشگاه صنعتی شریف",
      "h": 9.2,
      "glow": "#1F4E9E"
     },
     {
      "src": "img/logo-mci.png",
-     "name": "Hamrah-e Aval (MCI)",
+     "name": "همراه اول (MCI)",
      "h": 7.4,
      "glow": "#00AEEF"
     },
     {
      "src": "img/logo-mci-rd.svg",
-     "name": "MCI Research & Innovation",
+     "name": "پژوهش و نوآوری همراه اول",
      "h": 7.4,
      "glow": "#1F92D0"
     },
     {
      "src": "img/logo-greenoly.png",
-     "name": "Greenoly",
+     "name": "گرینولی",
      "h": 4.4,
      "glow": "#00C585"
     },
     {
      "src": "img/logo-saya.png",
-     "name": "Saya",
+     "name": "سایا",
      "h": 6.4,
      "glow": "#6E8BE8"
     },
     {
      "src": "img/logo-lance.png",
-     "name": "Lance",
+     "name": "لنس",
      "h": 5.4,
      "glow": "#FF7FE3"
     },
     {
      "src": "img/logo-talayiha.png",
-     "name": "Talayiha",
+     "name": "طلایی‌ها",
      "h": 9.2,
      "glow": "#E8B931"
     },
     {
      "src": "img/logo-javaherian.png",
-     "name": "Javaherian Silver",
+     "name": "نقره جواهریان",
      "h": 9.6,
      "glow": "#D24A5E"
     }
@@ -249,41 +249,41 @@
    "kind": "mci",
    "chapter": "work",
    "accent": "#1AA3E8",
-   "eyebrow": "Case Study 01 | Hamrah-e Aval",
-   "title": "Hamrah-e Aval (MCI)",
-   "sub": "A system built on a locally hosted AI model",
+   "eyebrow": "نمونه‌کار ۰۱ | همراه اول",
+   "title": "همراه اول (MCI)",
+   "sub": "سامانه‌ای مبتنی بر مدل هوش مصنوعی میزبانی‌شده در داخل",
    "logo": "img/logo-mci-full-light.png",
    "shot": "img/sakoo-blur.webp",
-   "badge": "Confidential | NDA",
-   "note": "The system's functionality is not disclosed under the confidentiality agreement",
-   "workLabel": "Technical work delivered",
+   "badge": "محرمانه | NDA",
+   "note": "عملکرد سامانه به‌دلیل قرارداد محرمانگی افشا نمی‌شود",
+   "workLabel": "کارهای فنی تحویل‌شده",
    "work": [
     {
-     "title": "AI and Generative AI",
-     "text": "A locally hosted language model on internal infrastructure, with every output reviewed by an expert before use"
+     "title": "هوش مصنوعی و هوش مصنوعی مولد",
+     "text": "مدل زبانی میزبانی‌شده روی زیرساخت داخلی، با بازبینی هر خروجی توسط کارشناس پیش از استفاده"
     },
     {
-     "title": "Machine Learning and Deep Learning",
-     "text": "Deep learning models and statistical analysis to measure output quality"
+     "title": "یادگیری ماشین و یادگیری عمیق",
+     "text": "مدل‌های یادگیری عمیق و تحلیل آماری برای سنجش کیفیت خروجی"
     },
     {
-     "title": "MLOps and LLMOps",
-     "text": "Continuous model evaluation and monitoring, with versioned changes"
+     "title": "MLOps و LLMOps",
+     "text": "ارزیابی و پایش مستمر مدل، با نسخه‌بندی تغییرات"
     },
     {
-     "title": "Frontend Development",
-     "text": "Role-based panels built on a dedicated design system"
+     "title": "توسعه فرانت‌اند",
+     "text": "پنل‌های مبتنی بر نقش، ساخته‌شده روی یک سیستم طراحی اختصاصی"
     },
     {
-     "title": "Backend and API Architecture",
-     "text": "A secure API with role-based access and a notification service"
+     "title": "بک‌اند و معماری API",
+     "text": "API امن با دسترسی مبتنی بر نقش و سرویس اعلان"
     },
     {
-     "title": "Databases, Search, and Data Engineering",
-     "text": "Storage for structured data and documents, with a full change history"
+     "title": "پایگاه داده، جست‌وجو و مهندسی داده",
+     "text": "ذخیره‌سازی داده‌های ساخت‌یافته و اسناد، با تاریخچه کامل تغییرات"
     }
    ],
-   "techLabel": "Technologies",
+   "techLabel": "فناوری‌ها",
    "tech": [
     "Local LLM",
     "RAG",
@@ -300,30 +300,30 @@
    "kind": "showcase",
    "chapter": "work",
    "accent": "#D24A5E",
-   "eyebrow": "Case Study 02 | Online Sales",
-   "title": "Javaherian Smart Silver Platform",
-   "sub": "Silver package management, from issuing the QR code to handover to the buyer",
+   "eyebrow": "نمونه‌کار ۰۲ | فروش آنلاین",
+   "title": "پلتفرم هوشمند نقره جواهریان",
+   "sub": "مدیریت بسته‌های نقره، از صدور کد QR تا تحویل به خریدار",
    "logo": "img/logo-javaherian.png",
    "feats": [
     {
      "icon": "bag",
-     "title": "Buying and selling silver",
-     "text": "Online and in-store purchases, affiliate sales, prizes and competitions"
+     "title": "خرید و فروش نقره",
+     "text": "خرید آنلاین و حضوری، فروش از طریق همکاران فروش، جایزه و مسابقه"
     },
     {
      "icon": "qr",
-     "title": "QR authentication",
-     "text": "Each package has a unique QR code; scanning it confirms the silver weight and authenticity"
+     "title": "احراز اصالت با QR",
+     "text": "هر بسته یک کد QR یکتا دارد؛ اسکن آن وزن و اصالت نقره را تأیید می‌کند"
     },
     {
      "icon": "user",
-     "title": "User accounts",
-     "text": "Sign-up with a national ID, and packages registered to the buyer's name"
+     "title": "حساب کاربری",
+     "text": "ثبت‌نام با کد ملی و ثبت بسته‌ها به نام خریدار"
     },
     {
      "icon": "dashboard",
-     "title": "Package admin panel",
-     "text": "Create packages, issue QR codes and track available and received packages"
+     "title": "پنل مدیریت بسته‌ها",
+     "text": "ساخت بسته، صدور کد QR و پیگیری بسته‌های موجود و تحویل‌شده"
     }
    ],
    "desk": "img/jv-desk.webp",
@@ -338,30 +338,30 @@
    "kind": "showcase",
    "chapter": "work",
    "accent": "#F0A93B",
-   "eyebrow": "Case Study 03 | Payments and Registration",
-   "title": "Talayiha",
-   "sub": "Registration system for the Talayiha Olympiad Club's Nowruz camps",
+   "eyebrow": "نمونه‌کار ۰۳ | پرداخت و ثبت‌نام",
+   "title": "طلایی‌ها",
+   "sub": "سامانه ثبت‌نام اردوهای نوروزی باشگاه المپیاد طلایی‌ها",
    "logo": "img/logo-talayiha.png",
    "feats": [
     {
      "icon": "clipboard",
-     "title": "Registration and camp choice",
-     "text": "Nine specialist camps from physics and astronomy to AI, with sign-up and verification-code login"
+     "title": "ثبت‌نام و انتخاب اردو",
+     "text": "نه اردوی تخصصی از فیزیک و نجوم تا هوش مصنوعی، با ثبت‌نام و ورود با کد تأیید"
     },
     {
      "icon": "file",
-     "title": "Entrance exam",
-     "text": "Camp selection, two question formats and results: accepted, pending or rejected"
+     "title": "آزمون ورودی",
+     "text": "انتخاب اردو، دو قالب سؤال و نتیجه: پذیرفته‌شده، در انتظار یا ردشده"
     },
     {
      "icon": "credit",
-     "title": "Instalment payments",
-     "text": "Several payment plans, with the status of each payment tracked"
+     "title": "پرداخت اقساطی",
+     "text": "چند طرح پرداخت، با پیگیری وضعیت هر پرداخت"
     },
     {
      "icon": "dashboard",
-     "title": "Dashboard and admin panel",
-     "text": "Applicant dashboard before and after registration, camp editing and a change log"
+     "title": "داشبورد و پنل مدیریت",
+     "text": "داشبورد متقاضی پیش و پس از ثبت‌نام، ویرایش اردوها و گزارش تغییرات"
     }
    ],
    "desk": "img/tl-desk.webp",
@@ -375,38 +375,38 @@
    "kind": "sharif",
    "chapter": "work",
    "accent": "#6F9BE8",
-   "eyebrow": "Case Study 04",
-   "title": "Sharif University Smart Library",
-   "sub": "An innovation-led roadmap",
+   "eyebrow": "نمونه‌کار ۰۴",
+   "title": "کتابخانه هوشمند دانشگاه شریف",
+   "sub": "نقشه‌راهی مبتنی بر نوآوری",
    "items": [
     {
      "icon": "seat",
-     "title": "Reservations",
-     "text": "Study seats are booked with a student ID; the system assigns the seat itself and manages the waiting list"
+     "title": "رزرو",
+     "text": "صندلی مطالعه با شماره دانشجویی رزرو می‌شود؛ سامانه خودش صندلی را اختصاص می‌دهد و صف انتظار را مدیریت می‌کند"
     },
     {
      "icon": "file",
      "title": "OCR",
-     "text": "Digitising valuable collections and turning scanned pages into searchable text"
+     "text": "دیجیتال‌سازی مجموعه‌های ارزشمند و تبدیل صفحات اسکن‌شده به متن قابل جست‌وجو"
     },
     {
      "icon": "globe",
-     "title": "Global library benchmark",
-     "text": "We studied the strategic plans of NTU Singapore, MIT, Stanford, ETH Zürich and NC State side by side"
+     "title": "مقایسه با کتابخانه‌های جهان",
+     "text": "برنامه‌های راهبردی NTU سنگاپور، MIT، استنفورد، ETH زوریخ و NC State را کنار هم بررسی کردیم"
     },
     {
      "icon": "qr",
-     "title": "QR check-in",
-     "text": "A map shows the route to the reserved seat"
+     "title": "ورود با QR",
+     "text": "نقشه، مسیر رسیدن به صندلی رزروشده را نشان می‌دهد"
     }
    ],
    "chips": [
-    "Extend, end and cancel",
-    "Waiting list",
-    "Penalty appeals"
+    "تمدید، پایان و لغو",
+    "صف انتظار",
+    "اعتراض به جریمه"
    ],
    "plane": "img/jay-plane.webp",
-   "planeCaption": "Jaygah sign-in page: a hyperbolic plane in the Poincaré disk",
+   "planeCaption": "صفحه ورود جایگاه: صفحه هذلولوی در دیسک پوانکاره",
    "ticket": "img/jay-ticket.webp",
    "page": "img/jay-login.webp"
   },
@@ -415,24 +415,24 @@
    "kind": "art",
    "chapter": "work",
    "accent": "#E9C46A",
-   "eyebrow": "Sharif Library | The Sharif Layer",
-   "title": "Every Page, a Piece of Sharif's Mathematics",
-   "lead": "Each page of Jaygah carries an interactive piece of mathematics that Sharif students know. None of them adds a step to the booking flow.",
+   "eyebrow": "کتابخانه شریف | لایه شریف",
+   "title": "هر صفحه، قطعه‌ای از ریاضیات شریف",
+   "lead": "هر صفحه جایگاه یک قطعه ریاضی تعاملی دارد که دانشجویان شریف می‌شناسند. هیچ‌کدام مرحله‌ای به فرایند رزرو اضافه نمی‌کند.",
    "shot": "img/jay-login.webp",
    "items": [
     {
-     "title": "Hyperbolic plane",
-     "text": "A tiling of triangles meeting eight at each vertex, in memory of Maryam Mirzakhani, Sharif mathematics graduate and 2014 Fields Medal winner. The cursor slides the plane and each click draws a full geodesic in Sharif yellow.",
+     "title": "صفحه هذلولوی",
+     "text": "کاشی‌کاری با مثلث‌هایی که در هر رأس هشت‌تایی به هم می‌رسند، به یاد مریم میرزاخانی، دانش‌آموخته ریاضی شریف و برنده مدال فیلدز ۲۰۱۴. مکان‌نما صفحه را می‌لغزاند و هر کلیک یک ژئودزیک کامل به رنگ زرد شریف می‌کشد.",
      "img": "img/jay-plane.webp"
     },
     {
-     "title": "Field of formulas",
-     "text": "Behind the dashboard float Khwarizmi's equation, Kashani's pi to 16 digits, Khayyam's equation and Tusi's law of sines. The formula nearest the cursor names its author.",
+     "title": "میدان فرمول‌ها",
+     "text": "پشت داشبورد معادله خوارزمی، عدد پی با ۱۶ رقم کاشانی، معادله خیام و قانون سینوس‌های طوسی شناورند. فرمولِ نزدیک به مکان‌نما نام مبدع خود را نشان می‌دهد.",
      "img": "img/jay-formula.webp"
     },
     {
-     "title": "Route to the seat",
-     "text": "The route from the entrance to the seat is found with A* on the hall map, keeps clear of desks, columns and shelves, and draws itself.",
+     "title": "مسیر تا صندلی",
+     "text": "مسیر از ورودی تا صندلی روی نقشه سالن با الگوریتم A* پیدا می‌شود، از میز، ستون و قفسه فاصله می‌گیرد و خودش ترسیم می‌شود.",
      "img": "img/jay-route.webp"
     }
    ]
@@ -442,56 +442,56 @@
    "kind": "roadmap",
    "chapter": "work",
    "accent": "#6F9BE8",
-   "eyebrow": "Sharif Library | Roadmap",
-   "title": "From Seat Booking to a Smart Library",
-   "sub": "Projects proposed in the library's strategic innovation plan, summer 2026",
+   "eyebrow": "کتابخانه شریف | نقشه‌راه",
+   "title": "از رزرو صندلی تا کتابخانه هوشمند",
+   "sub": "پروژه‌های پیشنهادی در برنامه راهبردی نوآوری کتابخانه، تابستان ۱۴۰۵",
    "nodes": [
     {
      "icon": "seat",
-     "title": "Smart seat booking",
-     "text": "Live capacity, booking with a student ID, extensions and cancellations, and a waiting list that notifies people when a seat frees up",
-     "status": "Delivered: Jaygah"
+     "title": "رزرو هوشمند صندلی",
+     "text": "ظرفیت لحظه‌ای، رزرو با شماره دانشجویی، تمدید و لغو، و صف انتظاری که با آزاد شدن صندلی خبر می‌دهد",
+     "status": "تحویل‌شده: جایگاه"
     },
     {
      "icon": "bot",
-     "title": "Library AI assistant",
-     "text": "Answers common questions, finds sources and guides searches in natural language, without a visit to the desk",
+     "title": "دستیار هوش مصنوعی کتابخانه",
+     "text": "به پرسش‌های رایج پاسخ می‌دهد، منابع را پیدا می‌کند و جست‌وجو را به زبان طبیعی راهنمایی می‌کند، بدون مراجعه به میز امانت",
      "status": ""
     },
     {
      "icon": "search",
-     "title": "Smart resource search",
-     "text": "Search by subject, keyword, field, author and abstract, or by a question written in natural language",
+     "title": "جست‌وجوی هوشمند منابع",
+     "text": "جست‌وجو بر اساس موضوع، کلیدواژه، رشته، نویسنده و چکیده، یا با پرسشی که به زبان طبیعی نوشته می‌شود",
      "status": ""
     },
     {
      "icon": "file",
-     "title": "Digitisation and OCR",
-     "text": "Phased scanning of valuable collections and conversion to searchable text, where legally and technically possible",
+     "title": "دیجیتال‌سازی و OCR",
+     "text": "اسکن مرحله‌ای مجموعه‌های ارزشمند و تبدیل آن‌ها به متن قابل جست‌وجو، هرجا از نظر قانونی و فنی ممکن باشد",
      "status": ""
     },
     {
      "icon": "zap",
-     "title": "IoT energy management",
-     "text": "Lighting and ventilation sensors that detect presence and manage equipment automatically",
+     "title": "مدیریت انرژی با اینترنت اشیا",
+     "text": "حسگرهای روشنایی و تهویه که حضور را تشخیص می‌دهند و تجهیزات را خودکار مدیریت می‌کنند",
      "status": ""
     },
     {
      "icon": "book",
-     "title": "Book recommendations",
-     "text": "Recommendations based on field, degree, reading history, research interests and thesis topic",
+     "title": "پیشنهاد کتاب",
+     "text": "پیشنهاد بر اساس رشته، مقطع، سابقه مطالعه، علایق پژوهشی و موضوع پایان‌نامه",
      "status": ""
     },
     {
      "icon": "layers",
-     "title": "Smart library",
-     "text": "All layers joined in a digital twin; the space adjusts itself to occupancy and user needs",
+     "title": "کتابخانه هوشمند",
+     "text": "همه لایه‌ها در یک دوقلوی دیجیتال کنار هم قرار می‌گیرند؛ فضا خودش را با میزان حضور و نیاز کاربران تنظیم می‌کند",
      "status": ""
     },
     {
      "icon": "database",
-     "title": "Research data management",
-     "text": "Data management plan consulting, repository selection guidance, and infrastructure for the university's institutional repository",
+     "title": "مدیریت داده‌های پژوهشی",
+     "text": "مشاوره طرح مدیریت داده، راهنمای انتخاب مخزن و زیرساخت مخزن نهادی دانشگاه",
      "status": ""
     }
    ]
@@ -501,83 +501,83 @@
    "kind": "bench",
    "chapter": "work",
    "accent": "#6F9BE8",
-   "eyebrow": "Sharif Library | Benchmark",
-   "title": "Libraries We Learned From",
+   "eyebrow": "کتابخانه شریف | مقایسه",
+   "title": "کتابخانه‌هایی که از آن‌ها آموختیم",
    "stats": [
     {
      "n": "67%",
-     "label": "of university libraries worldwide are exploring or implementing AI"
+     "label": "از کتابخانه‌های دانشگاهی جهان در حال بررسی یا اجرای هوش مصنوعی هستند"
     },
     {
      "n": "45%",
-     "label": "higher research productivity at universities offering AI-based text analysis"
+     "label": "بهره‌وری پژوهشی بیشتر در دانشگاه‌هایی که تحلیل متن مبتنی بر هوش مصنوعی ارائه می‌دهند"
     },
     {
      "n": "30%",
-     "label": "more interdisciplinary collaboration at the same universities"
+     "label": "همکاری میان‌رشته‌ای بیشتر در همان دانشگاه‌ها"
     }
    ],
-   "statsNote": "From a 2025 global survey of more than 2,000 librarians in 109 countries, as cited in the strategic plan",
+   "statsNote": "از یک پیمایش جهانی ۲۰۲۵ با بیش از ۲٬۰۰۰ کتابدار در ۱۰۹ کشور، به نقل از برنامه راهبردی",
    "libs": [
     {
      "name": "NC State",
-     "place": "Hunt Library",
-     "text": "Robotic book storage and retrieval, collaborative spaces, audio and video production rooms, and 3D printing"
+     "place": "کتابخانه Hunt",
+     "text": "ذخیره و بازیابی رباتیک کتاب، فضاهای مشارکتی، اتاق‌های تولید صوت و تصویر و چاپ سه‌بعدی"
     },
     {
-     "name": "ETH Zürich",
-     "place": "Strategic plan 2025–2028",
-     "text": "AI and open science at the centre of the transformation, aiming to become a knowledge hub in a global network"
+     "name": "ETH زوریخ",
+     "place": "برنامه راهبردی ۲۰۲۵–۲۰۲۸",
+     "text": "هوش مصنوعی و علم باز در مرکز تحول، با هدف تبدیل شدن به مرکز دانش در شبکه جهانی"
     },
     {
-     "name": "Stanford",
-     "place": "Full data lifecycle",
-     "text": "Support from the start of research to publication, preserving tens of thousands of datasets for reproducible research"
+     "name": "استنفورد",
+     "place": "چرخه کامل داده",
+     "text": "پشتیبانی از آغاز پژوهش تا انتشار و نگهداری ده‌ها هزار مجموعه داده برای پژوهش قابل‌تکرار"
     },
     {
-     "name": "Michigan",
-     "place": "Research Data Stewardship",
-     "text": "The library, IT, research office and specialist units working together on research data management"
+     "name": "میشیگان",
+     "place": "مدیریت داده‌های پژوهشی",
+     "text": "کتابخانه، فناوری اطلاعات، دفتر پژوهش و واحدهای تخصصی که برای مدیریت داده‌های پژوهشی با هم کار می‌کنند"
     }
    ],
-   "also": "Plus the strategic plans of MIT and NTU Singapore"
+   "also": "به‌علاوه برنامه‌های راهبردی MIT و NTU سنگاپور"
   },
   {
    "id": "jaygah-maps",
    "kind": "maps",
    "chapter": "work",
    "accent": "#6F9BE8",
-   "eyebrow": "Jaygah | Hall Maps",
-   "title": "From Hand-Drawn Plans to Interactive Maps",
-   "sub": "Six hand-drawn library plans, redrawn with the same desks and seats",
+   "eyebrow": "جایگاه | نقشه سالن‌ها",
+   "title": "از نقشه دست‌کشیده تا نقشه تعاملی",
+   "sub": "شش نقشه دست‌کشیده کتابخانه، بازطراحی‌شده با همان میزها و صندلی‌ها",
    "items": [
     {
      "icon": "route",
-     "title": "Route to the seat",
-     "text": "A* pathfinding from the entrance to the seat, keeping clear of desks, columns and shelves"
+     "title": "مسیر تا صندلی",
+     "text": "مسیریابی A* از ورودی تا صندلی، با فاصله از میز، ستون و قفسه"
     },
     {
      "icon": "seat",
-     "title": "Your seat on the map",
-     "text": "The assigned seat is marked on the map of its hall"
+     "title": "صندلی شما روی نقشه",
+     "text": "صندلی اختصاص‌یافته روی نقشه سالن خودش نشان داده می‌شود"
     },
     {
      "icon": "check-circle",
-     "title": "Checked against the scans",
-     "text": "Every desk and seat was compared with the scanned hand-drawn sheet"
+     "title": "تطبیق با اسکن‌ها",
+     "text": "تک‌تک میزها و صندلی‌ها با برگ اسکن‌شده نقشه دست‌کشیده مقایسه شد"
     }
    ],
    "route": "img/jay-route.webp",
    "sheet": "img/jay-sheet.webp",
-   "sheetCaption": "Hand-drawn library plan",
+   "sheetCaption": "نقشه دست‌کشیده کتابخانه",
    "stats": [
     {
      "n": "6",
-     "label": "halls"
+     "label": "سالن"
     },
     {
      "n": "520",
-     "label": "seats"
+     "label": "صندلی"
     }
    ]
   },
@@ -586,54 +586,54 @@
    "kind": "jadmin",
    "chapter": "work",
    "accent": "#6F9BE8",
-   "eyebrow": "Jaygah | Admin Console",
-   "title": "The Library at a Glance",
+   "eyebrow": "جایگاه | کنسول مدیریت",
+   "title": "کتابخانه در یک نگاه",
    "shot": "img/jay-admin.webp",
-   "capLabel": "Hall capacity",
+   "capLabel": "ظرفیت سالن‌ها",
    "capTotal": "520",
-   "capUnit": "seats",
+   "capUnit": "صندلی",
    "halls": [
     {
-     "name": "Ground East",
+     "name": "همکف شرقی",
      "n": 58
     },
     {
-     "name": "Ground West",
+     "name": "همکف غربی",
      "n": 123
     },
     {
-     "name": "Floor 1",
+     "name": "طبقه ۱",
      "n": 101
     },
     {
-     "name": "Floor 2",
+     "name": "طبقه ۲",
      "n": 121
     },
     {
-     "name": "Floor 3",
+     "name": "طبقه ۳",
      "n": 50
     },
     {
-     "name": "Floor 4",
+     "name": "طبقه ۴",
      "n": 67
     }
    ],
    "feats": [
     {
      "icon": "dashboard",
-     "label": "Daily hall occupancy dashboard"
+     "label": "داشبورد روزانه اشغال سالن‌ها"
     },
     {
      "icon": "chart",
-     "label": "Weekly occupancy heatmap"
+     "label": "نقشه حرارتی هفتگی اشغال"
     },
     {
      "icon": "clipboard",
-     "label": "Requests and appeals handling"
+     "label": "رسیدگی به درخواست‌ها و اعتراض‌ها"
     },
     {
      "icon": "file",
-     "label": "Excel export of bookings"
+     "label": "خروجی اکسل از رزروها"
     }
    ]
   },
@@ -642,26 +642,26 @@
    "kind": "greenoly",
    "chapter": "work",
    "accent": "#22C17C",
-   "eyebrow": "Case Study 05",
-   "title": "Greenoly",
-   "sub": "A complete platform for learning, exams and course management",
+   "eyebrow": "نمونه‌کار ۰۵",
+   "title": "گرینولی",
+   "sub": "پلتفرم کامل یادگیری، آزمون و مدیریت دوره",
    "stats": [
     {
      "n": 17236,
-     "label": "users"
+     "label": "کاربر"
     },
     {
      "n": 6831,
-     "label": "monthly active users"
+     "label": "کاربر فعال ماهانه"
     }
    ],
-   "text": "Greenoly delivers Olympiad and science courses online. Syntex redesigned the user experience and interface and rebuilt the front end and back end, from the Olympiad landing pages to live classes, exams, the bookshop and the admin panel.",
+   "text": "گرینولی دوره‌های المپیاد و علوم را به‌صورت آنلاین ارائه می‌کند. سینتکس تجربه و رابط کاربری را بازطراحی و فرانت‌اند و بک‌اند را از نو ساخت؛ از صفحات فرود المپیاد تا کلاس‌های زنده، آزمون‌ها، کتاب‌فروشی و پنل مدیریت.",
    "chips": [
-    "Olympiad landing pages",
-    "Interactive online classes",
-    "Interactive exams",
-    "Personal progress reports",
-    "Bookshop"
+    "صفحات فرود المپیاد",
+    "کلاس‌های آنلاین تعاملی",
+    "آزمون‌های تعاملی",
+    "گزارش پیشرفت شخصی",
+    "کتاب‌فروشی"
    ],
    "hero": "img/g-hero.webp",
    "phones": "img/g-phones.webp"
@@ -671,49 +671,49 @@
    "kind": "modules",
    "chapter": "work",
    "accent": "#22C17C",
-   "eyebrow": "Greenoly | Modules",
-   "title": "A Complete Learning Platform",
+   "eyebrow": "گرینولی | ماژول‌ها",
+   "title": "پلتفرم کامل یادگیری",
    "key": {
-    "badge": "Key feature",
-    "title": "Interactive player",
-    "q": "A question mid-video",
-    "text": "The video pauses at set moments to ask a multiple-choice question, an exercise or a reflective prompt; answers are recorded in the progress report."
+    "badge": "قابلیت کلیدی",
+    "title": "پخش‌کننده تعاملی",
+    "q": "سؤالی در میانه ویدیو",
+    "text": "ویدیو در لحظه‌های تعیین‌شده می‌ایستد و یک سؤال چندگزینه‌ای، تمرین یا پرسش تأملی می‌پرسد؛ پاسخ‌ها در گزارش پیشرفت ثبت می‌شوند."
    },
    "mods": [
     {
      "icon": "live",
-     "title": "Live online classes",
-     "text": "Live streaming, automatic recording and whiteboard"
+     "title": "کلاس‌های آنلاین زنده",
+     "text": "پخش زنده، ضبط خودکار و تخته سفید"
     },
     {
      "icon": "video",
-     "title": "Recorded courses",
-     "text": "Free and paid, with completion certificates"
+     "title": "دوره‌های ضبط‌شده",
+     "text": "رایگان و پولی، با گواهی پایان دوره"
     },
     {
      "icon": "clipboard",
-     "title": "Exams",
-     "text": "Automatic and manual marking, assigned markers and certificates"
+     "title": "آزمون‌ها",
+     "text": "تصحیح خودکار و دستی، مصحح‌های تعیین‌شده و گواهی"
     },
     {
      "icon": "trophy",
-     "title": "Rankings",
-     "text": "Codeforces-style ELO rating and leaderboard"
+     "title": "رتبه‌بندی",
+     "text": "رتبه‌بندی ELO به سبک Codeforces و جدول برترین‌ها"
     },
     {
      "icon": "dashboard",
-     "title": "Full admin panel",
-     "text": "Content, users and financial reports"
+     "title": "پنل مدیریت کامل",
+     "text": "محتوا، کاربران و گزارش‌های مالی"
     },
     {
      "icon": "bag",
-     "title": "Bookshop",
-     "text": "Orders, online payment and shipping"
+     "title": "کتاب‌فروشی",
+     "text": "سفارش، پرداخت آنلاین و ارسال"
     },
     {
      "icon": "bot",
-     "title": "Learning chatbot",
-     "text": "Performance analysis and study suggestions"
+     "title": "چت‌بات یادگیری",
+     "text": "تحلیل عملکرد و پیشنهاد برنامه مطالعه"
     }
    ]
   },
@@ -722,28 +722,28 @@
    "kind": "screens",
    "chapter": "work",
    "accent": "#22C17C",
-   "eyebrow": "Greenoly | Screens",
-   "title": "From Olympiad Overview to Exam Results",
+   "eyebrow": "گرینولی | صفحه‌ها",
+   "title": "از معرفی المپیاد تا نتیجه آزمون",
    "shots": [
     {
      "src": "img/g-hero.webp",
-     "label": "Home"
+     "label": "خانه"
     },
     {
      "src": "img/g-physics.webp",
-     "label": "Physics Olympiad"
+     "label": "المپیاد فیزیک"
     },
     {
      "src": "img/g-course.webp",
-     "label": "Course page"
+     "label": "صفحه دوره"
     },
     {
      "src": "img/g-player.webp",
-     "label": "Course player"
+     "label": "پخش‌کننده دوره"
     },
     {
      "src": "img/g-leader.webp",
-     "label": "Leaderboard"
+     "label": "جدول برترین‌ها"
     }
    ]
   },
@@ -752,51 +752,51 @@
    "kind": "gadmin",
    "chapter": "work",
    "accent": "#22C17C",
-   "eyebrow": "Greenoly | Admin Panel",
-   "title": "The Whole Platform, Managed from One Panel",
+   "eyebrow": "گرینولی | پنل مدیریت",
+   "title": "کل پلتفرم، از یک پنل مدیریت",
    "tabs": [
     {
-     "label": "Dashboard",
+     "label": "داشبورد",
      "src": "img/ga-dash.webp"
     },
     {
-     "label": "Courses",
+     "label": "دوره‌ها",
      "src": "img/ga-courses.webp"
     },
     {
-     "label": "Users",
+     "label": "کاربران",
      "src": "img/ga-users.webp"
     },
     {
-     "label": "Finance",
+     "label": "مالی",
      "src": "img/ga-finance.webp"
     }
    ],
    "mods": [
     {
      "icon": "dashboard",
-     "title": "Admin dashboard",
-     "text": "Users, revenue and platform activity"
+     "title": "داشبورد مدیریت",
+     "text": "کاربران، درآمد و فعالیت پلتفرم"
     },
     {
      "icon": "users",
-     "title": "User management",
-     "text": "Search and filters, user details, access levels and transactions"
+     "title": "مدیریت کاربران",
+     "text": "جست‌وجو و فیلتر، جزئیات کاربر، سطح دسترسی و تراکنش‌ها"
     },
     {
      "icon": "layers",
-     "title": "Content management",
-     "text": "Courses, classes, exams and questions"
+     "title": "مدیریت محتوا",
+     "text": "دوره‌ها، کلاس‌ها، آزمون‌ها و سؤال‌ها"
     },
     {
      "icon": "coins",
-     "title": "Finance",
-     "text": "Transaction and revenue reports, in-app credit management"
+     "title": "مالی",
+     "text": "گزارش تراکنش و درآمد، مدیریت اعتبار درون‌برنامه"
     },
     {
      "icon": "chart",
-     "title": "Analytics and reports",
-     "text": "User, content and financial analysis; periodic reports"
+     "title": "تحلیل و گزارش",
+     "text": "تحلیل کاربران، محتوا و مالی؛ گزارش‌های دوره‌ای"
     }
    ]
   },
@@ -805,54 +805,54 @@
    "kind": "quote",
    "chapter": "work",
    "accent": "#22C17C",
-   "eyebrow": "Client Testimonial | Greenoly",
-   "person": "Sadra Dashti",
-   "role": "CEO, Greenoly",
+   "eyebrow": "نظر کارفرما | گرینولی",
+   "person": "صدرا دشتی",
+   "role": "مدیرعامل گرینولی",
    "photo": "img/ceo-greenoly.webp",
    "logo": "img/logo-greenoly.png",
-   "text": "Working with the Syntex team was an excellent and dynamic experience. They listened to every piece of feedback and every idea with patience and care, and built them creatively into our Olympiad learning platform. Their discipline, clear communication and drive for the best result made the project exactly what we had in mind."
+   "text": "همکاری با تیم سینتکس تجربه‌ای عالی و پویا بود. به تک‌تک بازخوردها و ایده‌ها با صبر و دقت گوش دادند و آن‌ها را خلاقانه در پلتفرم یادگیری المپیاد ما اجرا کردند. نظم، ارتباط شفاف و تلاش برای بهترین نتیجه، پروژه را دقیقاً مطابق تصور ما کرد."
   },
   {
    "id": "saya-build",
    "kind": "sayabuild",
    "chapter": "work",
    "accent": "#7B95E6",
-   "eyebrow": "Saya | Delivery Steps",
-   "title": "From 3D Model to Cost Report",
+   "eyebrow": "سایا | مراحل اجرا",
+   "title": "از مدل سه‌بعدی تا گزارش هزینه",
    "steps": [
     {
      "icon": "code",
-     "title": "Setup",
-     "text": "Next.js and TypeScript, interface built with Tailwind CSS"
+     "title": "راه‌اندازی",
+     "text": "Next.js و TypeScript، رابط کاربری با Tailwind CSS"
     },
     {
      "icon": "box",
-     "title": "3D car model",
-     "text": "GLB/GLTF model with 360° rotation and clickable points on the body"
+     "title": "مدل سه‌بعدی خودرو",
+     "text": "مدل GLB/GLTF با چرخش ۳۶۰ درجه و نقاط قابل‌کلیک روی بدنه"
     },
     {
      "icon": "clipboard",
-     "title": "Damage capture",
-     "text": "Select the damaged part, damage type and severity"
+     "title": "ثبت خسارت",
+     "text": "انتخاب قطعه آسیب‌دیده، نوع و شدت خسارت"
     },
     {
      "icon": "chart",
-     "title": "Cost and report",
-     "text": "Parts and labour price database, insurance coverage estimate and comparison of estimates"
+     "title": "هزینه و گزارش",
+     "text": "پایگاه قیمت قطعات و دستمزد، برآورد پوشش بیمه و مقایسه برآوردها"
     }
    ],
-   "taxTitle": "Every damage, coloured by severity",
-   "typesLabel": "Damage type",
+   "taxTitle": "هر خسارت، رنگ‌شده بر اساس شدت",
+   "typesLabel": "نوع خسارت",
    "types": [
-    "Scratch",
-    "Dent",
-    "Break"
+    "خط‌وخش",
+    "فرورفتگی",
+    "شکستگی"
    ],
-   "levelsLabel": "Severity",
+   "levelsLabel": "شدت",
    "levels": [
-    "Minor",
-    "Moderate",
-    "Severe"
+    "جزئی",
+    "متوسط",
+    "شدید"
    ],
    "shots": [
     "img/saya-pricelist.webp",
@@ -864,28 +864,28 @@
    "kind": "saya",
    "chapter": "work",
    "accent": "#7B95E6",
-   "eyebrow": "Case Study 06",
-   "title": "Saya",
-   "sub": "Vehicle damage assessment",
+   "eyebrow": "نمونه‌کار ۰۶",
+   "title": "سایا",
+   "sub": "ارزیابی خسارت خودرو",
    "car": "img/saya-car.webp",
    "problem": {
-    "label": "Problem",
-    "text": "Damage was assessed the traditional way and depended entirely on an assessor's judgement. Calculations were slow, and disagreements, human error and inconsistent pricing were common."
+    "label": "مسئله",
+    "text": "خسارت به روش سنتی ارزیابی می‌شد و کاملاً به قضاوت کارشناس وابسته بود. محاسبات کند بود و اختلاف نظر، خطای انسانی و قیمت‌گذاری ناهماهنگ رایج بود."
    },
    "solution": {
-    "label": "Solution",
-    "text": "An online tool that calculates the cost of repairing or replacing vehicle parts automatically, for insurance assessors, service centres and individual users."
+    "label": "راه‌حل",
+    "text": "ابزاری آنلاین که هزینه تعمیر یا تعویض قطعات خودرو را خودکار محاسبه می‌کند؛ برای کارشناسان بیمه، تعمیرگاه‌ها و کاربران عادی."
    },
    "outs": [
-    "Shorter assessment time",
-    "More accurate calculations",
-    "No dependence on the manual process"
+    "کاهش زمان ارزیابی",
+    "محاسبات دقیق‌تر",
+    "عدم وابستگی به روش دستی"
    ],
    "legend": {
-    "rotate": "360° rotation",
-    "low": "Minor",
-    "mid": "Moderate",
-    "high": "Severe"
+    "rotate": "چرخش ۳۶۰ درجه",
+    "low": "جزئی",
+    "mid": "متوسط",
+    "high": "شدید"
    }
   },
   {
@@ -893,93 +893,93 @@
    "kind": "quote",
    "chapter": "work",
    "accent": "#7B95E6",
-   "eyebrow": "Client Testimonial | Saya",
-   "person": "Mahmoud Pirhadi",
-   "role": "CEO, Saya",
+   "eyebrow": "نظر کارفرما | سایا",
+   "person": "محمود پیرهادی",
+   "role": "مدیرعامل سایا",
    "photo": "img/ceo-saya.webp",
    "logo": "img/logo-saya.png",
-   "text": "Despite tight deadlines and real technical complexity, the Syntex team developed our vehicle damage pricing system with precision, discipline and high quality. Every detail was built to our needs and feedback was applied quickly and correctly. The result was a coherent, reliable system that fully met our expectations."
+   "text": "با وجود مهلت‌های فشرده و پیچیدگی فنی واقعی، تیم سینتکس سامانه قیمت‌گذاری خسارت خودرو ما را با دقت، نظم و کیفیت بالا توسعه داد. هر جزئیات مطابق نیاز ما ساخته شد و بازخوردها سریع و درست اعمال شدند. نتیجه، سامانه‌ای منسجم و قابل‌اعتماد بود که انتظارات ما را کاملاً برآورده کرد."
   },
   {
    "id": "lance",
    "kind": "lance",
    "chapter": "work",
    "accent": "#F27FD5",
-   "eyebrow": "Case Study 07 | In Development",
-   "title": "Lance",
-   "sub": "Freelancing platform",
+   "eyebrow": "نمونه‌کار ۰۷ | در حال توسعه",
+   "title": "لنس",
+   "sub": "پلتفرم فریلنسینگ",
    "poster": "img/lance-poster.webp",
-   "text": "Lance is a freelancing platform built on a view that goes beyond a project marketplace. Its core idea is that freelancing is not just a job but an independent way of life, built on skill, freedom and self-reliance.",
-   "role": "Syntex's role: experience and interface design with a conceptual, community-centred approach",
+   "text": "لنس بر دیدگاهی بنا شده که از یک بازار پروژه فراتر می‌رود. ایده اصلی‌اش این است که فریلنسینگ فقط یک شغل نیست، بلکه سبکی مستقل از زندگی بر پایه مهارت، آزادی و اتکا به خود است.",
+   "role": "نقش سینتکس: طراحی تجربه و رابط کاربری با رویکردی مفهومی و جامعه‌محور",
    "panels": [
     {
      "icon": "user",
-     "label": "Freelancer panel"
+     "label": "پنل فریلنسر"
     },
     {
      "icon": "briefcase",
-     "label": "Client panel"
+     "label": "پنل کارفرما"
     },
     {
      "icon": "shield",
-     "label": "Admin panel"
+     "label": "پنل مدیریت"
     }
    ],
-   "mvp": "The first version (MVP) launches as a responsive web app"
+   "mvp": "نسخه اول (MVP) به‌صورت وب‌اپ واکنش‌گرا عرضه می‌شود"
   },
   {
    "id": "lance-app",
    "kind": "lanceapp",
    "chapter": "work",
    "accent": "#F27FD5",
-   "eyebrow": "Lance | Interface Design",
-   "title": "The Lance App",
+   "eyebrow": "لنس | طراحی رابط کاربری",
+   "title": "اپلیکیشن لنس",
    "screens": [
     {
      "src": "img/lance-screen-5.webp",
-     "label": "Profile"
+     "label": "پروفایل"
     },
     {
      "src": "img/lance-screen-3.webp",
-     "label": "Lance Plus"
+     "label": "لنس پلاس"
     },
     {
      "src": "img/lance-screen-2.webp",
-     "label": "Home"
+     "label": "خانه"
     },
     {
      "src": "img/lance-screen-1.webp",
-     "label": "Find freelancers"
+     "label": "یافتن فریلنسر"
     },
     {
      "src": "img/lance-screen-4.webp",
-     "label": "Messages"
+     "label": "پیام‌ها"
     }
    ],
    "feats": [
     {
      "icon": "users",
-     "label": "Separate sign-up for freelancers and clients"
+     "label": "ثبت‌نام جداگانه برای فریلنسرها و کارفرمایان"
     },
     {
      "icon": "search",
-     "label": "Job posts and advanced search"
+     "label": "آگهی کار و جست‌وجوی پیشرفته"
     },
     {
      "icon": "chat",
-     "label": "Bids and instant messaging"
+     "label": "پیشنهاد قیمت و پیام‌رسانی فوری"
     },
     {
      "icon": "layers",
-     "label": "Milestone-based project management"
+     "label": "مدیریت پروژه مرحله‌به‌مرحله"
     },
     {
      "icon": "credit",
-     "label": "Secure escrow payments"
+     "label": "پرداخت امن امانی (اسکرو)"
     },
     {
      "icon": "star",
-     "label": "Two-way reviews and reputation score"
+     "label": "نظرسنجی دوطرفه و امتیاز اعتبار"
     }
    ]
   },
@@ -988,28 +988,28 @@
    "kind": "identity",
    "chapter": "work",
    "accent": "#F27FD5",
-   "eyebrow": "Lance | Visual Identity",
-   "title": "Inspired by Free Knights",
+   "eyebrow": "لنس | هویت بصری",
+   "title": "الهام‌گرفته از شوالیه‌های آزاد",
    "tiles": [
     {
      "src": "img/lance-invite.webp",
-     "label": "Invitation card"
+     "label": "کارت دعوت"
     },
     {
      "src": "img/lance-stage.webp",
-     "label": "Event stage"
+     "label": "سن رویداد"
     },
     {
      "src": "img/lance-tickets.webp",
-     "label": "Event ticket"
+     "label": "بلیت رویداد"
     },
     {
      "src": "img/lance-pins.webp",
-     "label": "Pins"
+     "label": "پین‌ها"
     },
     {
      "src": "img/lance-lanyards.webp",
-     "label": "ID card"
+     "label": "کارت شناسایی"
     }
    ]
   },
@@ -1018,53 +1018,53 @@
    "kind": "nexus",
    "chapter": "work",
    "accent": "#FFE400",
-   "eyebrow": "Case Study 08",
-   "title": "Nexus",
-   "sub": "An integrated team collaboration platform that runs on the organisation's own servers",
+   "eyebrow": "نمونه‌کار ۰۸",
+   "title": "نکسوس",
+   "sub": "پلتفرم یکپارچه همکاری تیمی که روی سرورهای خود سازمان اجرا می‌شود",
    "logo": "img/logo-nexus.png",
    "modules": [
     {
      "icon": "clipboard",
-     "label": "Projects and tasks"
+     "label": "پروژه‌ها و وظایف"
     },
     {
      "icon": "clock",
-     "label": "Attendance"
+     "label": "حضور و غیاب"
     },
     {
      "icon": "calendar",
-     "label": "Leave and calendar"
+     "label": "مرخصی و تقویم"
     },
     {
      "icon": "file",
-     "label": "Documents"
+     "label": "اسناد"
     },
     {
      "icon": "chat",
-     "label": "Team chat"
+     "label": "چت تیمی"
     },
     {
      "icon": "video",
-     "label": "Video meetings"
+     "label": "جلسات تصویری"
     },
     {
      "icon": "coins",
-     "label": "Finance and invoicing"
+     "label": "مالی و صورتحساب"
     },
     {
      "icon": "check-circle",
-     "label": "Approvals"
+     "label": "تأییدیه‌ها"
     },
     {
      "icon": "chart",
-     "label": "Report builder"
+     "label": "گزارش‌ساز"
     }
    ],
    "chips": [
-    "Fully offline on company servers",
-    "English and Persian, RTL support",
-    "Gregorian and Persian calendars",
-    "Client portal"
+    "کاملاً آفلاین روی سرورهای شرکت",
+    "فارسی و انگلیسی، با پشتیبانی راست‌به‌چپ",
+    "تقویم میلادی و شمسی",
+    "پورتال مشتری"
    ],
    "shot": "img/nx-home.webp"
   },
@@ -1073,67 +1073,67 @@
    "kind": "gadmin",
    "chapter": "work",
    "accent": "#FFE400",
-   "eyebrow": "Nexus | Screens",
-   "title": "Projects, People and Communication in One Platform",
+   "eyebrow": "نکسوس | صفحه‌ها",
+   "title": "پروژه، افراد و ارتباطات در یک پلتفرم",
    "tabs": [
     {
-     "label": "Board",
+     "label": "برد",
      "src": "img/nx-board.webp"
     },
     {
-     "label": "Timeline",
+     "label": "خط زمان",
      "src": "img/nx-timeline.webp"
     },
     {
-     "label": "List",
+     "label": "فهرست",
      "src": "img/nx-list.webp"
     },
     {
-     "label": "Tasks",
+     "label": "وظایف",
      "src": "img/nx-tasks.webp"
     },
     {
-     "label": "Calendar",
+     "label": "تقویم",
      "src": "img/nx-meet.webp"
     },
     {
-     "label": "Chat",
+     "label": "چت",
      "src": "img/nx-chat.webp"
     },
     {
-     "label": "Finance",
+     "label": "مالی",
      "src": "img/nx-fin.webp"
     },
     {
-     "label": "Invoices",
+     "label": "صورتحساب‌ها",
      "src": "img/nx-inv.webp"
     }
    ],
    "mods": [
     {
      "icon": "dashboard",
-     "title": "Four project views",
-     "text": "Board, list, timeline and calendar, with saved filters"
+     "title": "چهار نمای پروژه",
+     "text": "برد، فهرست، خط زمان و تقویم، با فیلترهای ذخیره‌شده"
     },
     {
      "icon": "clipboard",
-     "title": "Tasks and dependencies",
-     "text": "Subtasks, labels, estimates and “My work”"
+     "title": "وظایف و وابستگی‌ها",
+     "text": "زیروظیفه، برچسب، برآورد و «کارهای من»"
     },
     {
      "icon": "clock",
-     "title": "Time and attendance",
-     "text": "Timer, weekly timesheets, attendance and leave"
+     "title": "زمان و حضور",
+     "text": "تایمر، برگه زمانی هفتگی، حضور و مرخصی"
     },
     {
      "icon": "chat",
-     "title": "Chat and meetings",
-     "text": "Project and team channels, direct messages and video meetings"
+     "title": "چت و جلسه",
+     "text": "کانال‌های پروژه و تیم، پیام مستقیم و جلسات تصویری"
     },
     {
      "icon": "coins",
-     "title": "Finance and reporting",
-     "text": "Invoices, expenses, payroll and a report builder with Excel and PDF export"
+     "title": "مالی و گزارش‌دهی",
+     "text": "صورتحساب، هزینه، حقوق و دستمزد و گزارش‌ساز با خروجی اکسل و PDF"
     }
    ],
    "noScroll": true,
@@ -1150,44 +1150,44 @@
    "kind": "roadmap",
    "chapter": "work",
    "accent": "#FFE400",
-   "eyebrow": "Nexus | AI Roadmap",
-   "title": "From Team Collaboration to an AI Project Manager",
-   "sub": "An AI layer added to Nexus on the same company servers",
+   "eyebrow": "نکسوس | نقشه‌راه هوش مصنوعی",
+   "title": "از همکاری تیمی تا مدیر پروژه هوشمند",
+   "sub": "افزودن یک لایه هوش مصنوعی به نکسوس روی همان سرورهای شرکت",
    "nodes": [
     {
      "icon": "layers",
-     "title": "Team collaboration platform",
-     "text": "Projects and tasks, attendance, documents, chat, meetings, finance and reports in one platform",
-     "status": "Delivered: Nexus"
+     "title": "پلتفرم همکاری تیمی",
+     "text": "پروژه و وظایف، حضور و غیاب، اسناد، چت، جلسات، مالی و گزارش‌ها در یک پلتفرم",
+     "status": "تحویل‌شده: نکسوس"
     },
     {
      "icon": "branch",
-     "title": "Jira integration",
-     "text": "Reads Jira projects and issues and keeps task status in sync with Nexus",
+     "title": "یکپارچگی با Jira",
+     "text": "پروژه‌ها و مسائل Jira را می‌خواند و وضعیت وظایف را با نکسوس همگام نگه می‌دارد",
      "status": ""
     },
     {
      "icon": "hourglass",
-     "title": "Delay monitoring",
-     "text": "Detects overdue work and bottlenecks, and warns before a deadline passes",
+     "title": "پایش تأخیر",
+     "text": "کارهای عقب‌افتاده و گلوگاه‌ها را تشخیص می‌دهد و پیش از گذشتن مهلت هشدار می‌دهد",
      "status": ""
     },
     {
      "icon": "video",
-     "title": "Meeting recording",
-     "text": "Records video meetings inside Nexus and transcribes the conversation",
+     "title": "ضبط جلسه",
+     "text": "جلسات تصویری را داخل نکسوس ضبط می‌کند و گفتگو را به متن درمی‌آورد",
      "status": ""
     },
     {
      "icon": "file",
-     "title": "Automatic minutes",
-     "text": "Meeting summary, decisions and action items; each action item is filed as a task",
+     "title": "صورت‌جلسه خودکار",
+     "text": "خلاصه جلسه، تصمیم‌ها و اقدام‌ها؛ هر اقدام به‌صورت یک وظیفه ثبت می‌شود",
      "status": ""
     },
     {
      "icon": "bot",
-     "title": "AI project manager",
-     "text": "An assistant that tracks project progress, reports on it and follows up on open items",
+     "title": "مدیر پروژه هوش مصنوعی",
+     "text": "دستیاری که پیشرفت پروژه را دنبال می‌کند، گزارش می‌دهد و موارد باز را پیگیری می‌کند",
      "status": ""
     }
    ]
@@ -1196,56 +1196,56 @@
    "id": "div-capabilities",
    "kind": "image",
    "chapter": "cap",
-   "title": "Capabilities",
+   "title": "توانمندی‌ها",
    "src": "img/div-capabilities.webp",
-   "alt": "Capabilities",
-   "overlay": "Capabilities"
+   "alt": "توانمندی‌ها",
+   "overlay": "توانمندی‌ها"
   },
   {
    "id": "capabilities",
    "kind": "capabilities",
    "chapter": "cap",
-   "eyebrow": "Capabilities",
-   "title": "Syntex Technical Capabilities",
+   "eyebrow": "توانمندی‌ها",
+   "title": "توانمندی‌های فنی سینتکس",
    "cols": [
     {
      "icon": "cpu",
-     "title": "Enterprise AI",
+     "title": "هوش مصنوعی سازمانی",
      "items": [
-      "Language models running on the organisation's own GPUs",
-      "RAG with hybrid semantic and keyword search over documents",
-      "AI agents connected to internal systems through MCP",
-      "Voice assistants with speech-to-text and text-to-speech"
+      "مدل‌های زبانی روی GPUهای خود سازمان",
+      "RAG با جست‌وجوی ترکیبی معنایی و کلیدواژه‌ای روی اسناد",
+      "عامل‌های هوشمند متصل به سامانه‌های داخلی از طریق MCP",
+      "دستیار صوتی با تبدیل گفتار به متن و متن به گفتار"
      ]
     },
     {
      "icon": "chart",
-     "title": "Data and Machine Learning",
+     "title": "داده و یادگیری ماشین",
      "items": [
-      "Transformer models for classification and information extraction",
-      "Document digitisation with OCR, including Persian text",
-      "Model evaluation, tracing and cost monitoring (LLMOps)",
-      "Guardrails on model input and output to protect sensitive data"
+      "مدل‌های ترنسفورمر برای دسته‌بندی و استخراج اطلاعات",
+      "دیجیتال‌سازی اسناد با OCR، از جمله متن فارسی",
+      "ارزیابی مدل، ردیابی و پایش هزینه (LLMOps)",
+      "محافظ ورودی و خروجی مدل برای حفاظت از داده‌های حساس"
      ]
     },
     {
      "icon": "network",
-     "title": "Enterprise Platforms",
+     "title": "پلتفرم‌های سازمانی",
      "items": [
-      "Real-time collaboration platform with chat and video meetings",
-      "Modular architecture with role-based access and audit logs",
-      "Indoor routing and interactive floor maps",
-      "Interactive 3D models with automatic damage costing"
+      "پلتفرم همکاری لحظه‌ای با چت و جلسه تصویری",
+      "معماری ماژولار با دسترسی مبتنی بر نقش و لاگ ممیزی",
+      "مسیریابی داخل ساختمان و نقشه‌های تعاملی طبقات",
+      "مدل‌های سه‌بعدی تعاملی با برآورد خودکار هزینه خسارت"
      ]
     },
     {
      "icon": "server",
-     "title": "Infrastructure and Deployment",
+     "title": "زیرساخت و استقرار",
      "items": [
-      "Full on-premise deployment with no internet dependency",
-      "Containers, Kubernetes and CI/CD with separate environments",
-      "Monitoring with OpenTelemetry, Prometheus and Grafana",
-      "Automated backups and a disaster recovery plan"
+      "استقرار کامل در محل سازمان بدون وابستگی به اینترنت",
+      "کانتینر، Kubernetes و CI/CD با محیط‌های جداگانه",
+      "پایش با OpenTelemetry، Prometheus و Grafana",
+      "پشتیبان‌گیری خودکار و طرح بازیابی از بحران"
      ]
     }
    ]
@@ -1254,47 +1254,47 @@
    "id": "commerce",
    "kind": "capabilities",
    "chapter": "cap",
-   "eyebrow": "Capabilities",
-   "title": "Commerce, Payment and Operations Platforms",
+   "eyebrow": "توانمندی‌ها",
+   "title": "پلتفرم‌های تجارت، پرداخت و عملیات",
    "cols": [
     {
      "icon": "bag",
-     "title": "Online Sales",
+     "title": "فروش آنلاین",
      "items": [
-      "Online and in-store purchase flows with affiliate sales, prizes and competitions",
-      "Product and package catalogues with variants, pricing and stock",
-      "Sign-up and login with verification codes and national ID",
-      "Responsive web apps that work as well on a phone as on a desktop"
+      "فرایند خرید آنلاین و حضوری با فروش از طریق همکاران، جایزه و مسابقه",
+      "کاتالوگ محصول و بسته با تنوع، قیمت و موجودی",
+      "ثبت‌نام و ورود با کد تأیید و کد ملی",
+      "وب‌اپ واکنش‌گرا که روی موبایل به خوبی دسکتاپ کار می‌کند"
      ]
     },
     {
      "icon": "credit",
-     "title": "Payments and Orders",
+     "title": "پرداخت و سفارش",
      "items": [
-      "Several payment plans, including instalments, with per-payment status tracking",
-      "Order lifecycle from purchase to handover, with a unique QR code for each package",
-      "Clear success, pending and failure states for every transaction",
-      "Notification service for order and payment updates"
+      "چند طرح پرداخت، از جمله اقساطی، با پیگیری وضعیت هر پرداخت",
+      "چرخه سفارش از خرید تا تحویل، با کد QR یکتا برای هر بسته",
+      "وضعیت‌های موفق، در انتظار و ناموفق شفاف برای هر تراکنش",
+      "سرویس اعلان برای به‌روزرسانی سفارش و پرداخت"
      ]
     },
     {
      "icon": "shield-check",
-     "title": "Trust and Security",
+     "title": "اعتماد و امنیت",
      "items": [
-      "Role-based access across customer, staff and admin panels",
-      "Full change history and audit logs on every record",
-      "Authenticity checks for physical products through QR scanning",
-      "Secure API with separate environments and automated backups"
+      "دسترسی مبتنی بر نقش در پنل‌های مشتری، کارکنان و مدیریت",
+      "تاریخچه کامل تغییرات و لاگ ممیزی روی هر رکورد",
+      "بررسی اصالت کالای فیزیکی با اسکن QR",
+      "API امن با محیط‌های جداگانه و پشتیبان‌گیری خودکار"
      ]
     },
     {
      "icon": "dashboard",
-     "title": "Operations and Insight",
+     "title": "عملیات و تحلیل",
      "items": [
-      "Admin panels for stock, orders, users and campaigns",
-      "Live dashboards that show current status without reports",
-      "Cost and price-list calculation built into the workflow",
-      "Monitoring with Prometheus and Grafana for stability under load"
+      "پنل مدیریت موجودی، سفارش، کاربران و کمپین‌ها",
+      "داشبوردهای زنده که وضعیت فعلی را بدون گزارش‌گیری نشان می‌دهند",
+      "محاسبه هزینه و لیست قیمت داخل فرایند کار",
+      "پایش با Prometheus و Grafana برای پایداری زیر بار"
      ]
     }
    ]
@@ -1303,56 +1303,56 @@
    "id": "stack",
    "kind": "stack",
    "chapter": "cap",
-   "eyebrow": "Tech Stack",
-   "title": "One Stack, from Interface to Infrastructure",
-   "hint": "Drag to explore; hover a domain to highlight its tools"
+   "eyebrow": "پشته فناوری",
+   "title": "یک پشته فناوری، از رابط کاربری تا زیرساخت",
+   "hint": "برای کاوش بکشید؛ با قرار دادن ماوس روی هر حوزه ابزارهایش پررنگ می‌شوند"
   },
   {
    "id": "arch",
    "kind": "arch",
    "chapter": "cap",
-   "eyebrow": "Tech Stack | Reference Architecture",
-   "title": "Service, Data and Security Architecture",
-   "sub": "Reference architecture of a customer request management system, from user panel to database",
+   "eyebrow": "پشته فناوری | معماری مرجع",
+   "title": "معماری سرویس، داده و امنیت",
+   "sub": "معماری مرجع یک سامانه مدیریت درخواست مشتریان، از پنل کاربر تا پایگاه داده",
    "clients": {
-    "title": "Role-based panels",
-    "text": "Customer, agent and manager panels"
+    "title": "پنل‌های مبتنی بر نقش",
+    "text": "پنل مشتری، کارشناس و مدیر"
    },
    "gateway": {
     "title": "nginx",
-    "text": "SSL and rate limiting"
+    "text": "SSL و محدودسازی نرخ درخواست"
    },
    "api": {
     "title": "Django REST Framework",
-    "text": "JWT and role-based access"
+    "text": "JWT و دسترسی مبتنی بر نقش"
    },
    "ai": {
-    "title": "AI service",
-    "text": "Request classification and suggested replies; approved by an agent"
+    "title": "سرویس هوش مصنوعی",
+    "text": "دسته‌بندی درخواست و پیشنهاد پاسخ؛ با تأیید کارشناس"
    },
    "stores": [
     {
      "key": "pg",
      "title": "PostgreSQL",
-     "text": "Core tables and relations"
+     "text": "جدول‌ها و روابط اصلی"
     },
     {
      "key": "mongo",
      "title": "MongoDB",
-     "text": "Attachments, conversations and audit log"
+     "text": "پیوست‌ها، گفتگوها و لاگ ممیزی"
     },
     {
      "key": "queue",
-     "title": "Delivery queue",
-     "text": "Email, SMS and in-app notifications"
+     "title": "صف تحویل",
+     "text": "ایمیل، پیامک و اعلان درون‌برنامه"
     }
    ],
    "modules": [
     {
      "key": "accounts",
      "store": "pg",
-     "title": "Accounts",
-     "text": "Users and authentication; accounts are deactivated, never deleted",
+     "title": "حساب‌ها",
+     "text": "کاربران و احراز هویت؛ حساب‌ها غیرفعال می‌شوند، هرگز حذف نمی‌شوند",
      "tables": [
       "USER",
       "SESSION"
@@ -1361,8 +1361,8 @@
     {
      "key": "org",
      "store": "pg",
-     "title": "Organisation",
-     "text": "Departments, teams and responding agents",
+     "title": "سازمان",
+     "text": "واحدها، تیم‌ها و کارشناسان پاسخ‌گو",
      "tables": [
       "DEPARTMENT",
       "TEAM",
@@ -1372,8 +1372,8 @@
     {
      "key": "roles",
      "store": "pg",
-     "title": "Roles and permissions",
-     "text": "Each role can access only the data it needs",
+     "title": "نقش‌ها و مجوزها",
+     "text": "هر نقش فقط به داده‌های موردنیاز خودش دسترسی دارد",
      "tables": [
       "ROLE",
       "PERMISSION",
@@ -1383,8 +1383,8 @@
     {
      "key": "people",
      "store": "pg",
-     "title": "Customers",
-     "text": "Customer profile, active services and contact history",
+     "title": "مشتریان",
+     "text": "پروفایل مشتری، سرویس‌های فعال و سابقه ارتباط",
      "tables": [
       "CUSTOMER",
       "SUBSCRIPTION",
@@ -1394,8 +1394,8 @@
     {
      "key": "assess",
      "store": "both",
-     "title": "Requests",
-     "text": "Requests from any channel, classified and tracked until closed",
+     "title": "درخواست‌ها",
+     "text": "درخواست از هر کانال، دسته‌بندی‌شده و پیگیری‌شده تا بسته شدن",
      "tables": [
       "TICKET",
       "TICKET_MESSAGE",
@@ -1405,8 +1405,8 @@
     {
      "key": "bank",
      "store": "pg",
-     "title": "Knowledge base",
-     "text": "Canned replies and versioned documentation for agents",
+     "title": "پایگاه دانش",
+     "text": "پاسخ‌های آماده و مستندات نسخه‌بندی‌شده برای کارشناسان",
      "tables": [
       "ARTICLE",
       "ARTICLE_VERSION"
@@ -1415,8 +1415,8 @@
     {
      "key": "decide",
      "store": "pg",
-     "title": "Routing and SLA",
-     "text": "Routing to the right team and alerts before a response deadline passes",
+     "title": "مسیریابی و SLA",
+     "text": "ارجاع به تیم درست و هشدار پیش از گذشتن مهلت پاسخ",
      "tables": [
       "ASSIGNMENT",
       "SLA_POLICY",
@@ -1426,8 +1426,8 @@
     {
      "key": "notify",
      "store": "queue",
-     "title": "Notifications",
-     "text": "SMS, email and in-app notifications through a delivery queue",
+     "title": "اعلان‌ها",
+     "text": "پیامک، ایمیل و اعلان درون‌برنامه از طریق صف تحویل",
      "tables": [
       "NOTIFICATION_TEMPLATE",
       "NOTIFICATION",
@@ -1437,164 +1437,164 @@
     {
      "key": "audit",
      "store": "mongo",
-     "title": "Audit log",
-     "text": "Append-only record of every change",
+     "title": "لاگ ممیزی",
+     "text": "ثبت فقط‌افزودنی از هر تغییر",
      "tables": [
       "AUDIT_LOG"
      ]
     }
    ],
    "principles": [
-    "Deactivate, never delete",
-    "A version for every change",
-    "Final reply by an agent",
-    "Append-only log"
+    "غیرفعال‌سازی به‌جای حذف",
+    "یک نسخه برای هر تغییر",
+    "پاسخ نهایی توسط کارشناس",
+    "لاگ فقط‌افزودنی"
    ]
   },
   {
    "id": "ai",
    "kind": "ai",
    "chapter": "cap",
-   "eyebrow": "Tech Stack | AI and Infrastructure",
-   "title": "AI on the Organisation's Own Servers",
-   "banner": "Data and models never leave your infrastructure",
+   "eyebrow": "پشته فناوری | هوش مصنوعی و زیرساخت",
+   "title": "هوش مصنوعی روی سرورهای خود سازمان",
+   "banner": "داده و مدل‌ها هرگز از زیرساخت شما خارج نمی‌شوند",
    "nodes": [
     {
      "key": "livekit",
      "group": "in",
      "title": "LiveKit",
-     "sub": "Real-time voice",
-     "text": "Real-time voice and video over WebRTC; the user talks to the assistant and hears the answer."
+     "sub": "صدای لحظه‌ای",
+     "text": "صدا و تصویر لحظه‌ای روی WebRTC؛ کاربر با دستیار صحبت می‌کند و پاسخ را می‌شنود."
     },
     {
      "key": "asr",
      "group": "in",
      "title": "ASR",
-     "sub": "Speech to text",
-     "text": "Converts speech to text before it reaches the orchestrator."
+     "sub": "گفتار به متن",
+     "text": "گفتار را پیش از رسیدن به ارکستراتور به متن تبدیل می‌کند."
     },
     {
      "key": "chat",
      "group": "in",
-     "title": "Text and chat",
-     "sub": "Web, mobile and API",
-     "text": "Text questions from the web panel, the app or other company systems."
+     "title": "متن و چت",
+     "sub": "وب، موبایل و API",
+     "text": "پرسش‌های متنی از پنل وب، اپلیکیشن یا سامانه‌های دیگر شرکت."
     },
     {
      "key": "docs",
      "group": "in",
-     "title": "Company documents",
-     "sub": "PDF, scans and images",
-     "text": "Documentation, procedures and reports that form the assistant's knowledge base."
+     "title": "اسناد شرکت",
+     "sub": "PDF، اسکن و تصویر",
+     "text": "مستندات، رویه‌ها و گزارش‌هایی که پایگاه دانش دستیار را می‌سازند."
     },
     {
      "key": "ocr",
      "group": "know",
      "title": "OCR",
-     "sub": "Image to text",
-     "text": "Extracts text from scanned pages and images, keeping table and paragraph structure."
+     "sub": "تصویر به متن",
+     "text": "متن را از صفحات اسکن‌شده و تصاویر استخراج می‌کند و ساختار جدول و پاراگراف را حفظ می‌کند."
     },
     {
      "key": "embed",
      "group": "know",
      "title": "Embedding",
-     "sub": "Chunking and vectors",
-     "text": "Splits text into chunks and turns each chunk into a vector with an embedding model."
+     "sub": "قطعه‌بندی و بردار",
+     "text": "متن را به قطعه‌ها تقسیم می‌کند و هر قطعه را با مدل embedding به بردار تبدیل می‌کند."
     },
     {
      "key": "vector",
      "group": "know",
-     "title": "Hybrid search",
-     "sub": "pgvector and BM25",
-     "text": "Vector retrieval alongside keyword search; results are re-ordered by a reranker."
+     "title": "جست‌وجوی ترکیبی",
+     "sub": "pgvector و BM25",
+     "text": "بازیابی برداری در کنار جست‌وجوی کلیدواژه‌ای؛ نتایج توسط reranker مرتب می‌شوند."
     },
     {
      "key": "guardin",
      "group": "core",
-     "title": "Input guard",
-     "sub": "Prompt injection and sensitive data",
-     "text": "Before the model, prompt injection, out-of-scope requests and sensitive data are detected."
+     "title": "محافظ ورودی",
+     "sub": "تزریق پرامپت و داده حساس",
+     "text": "پیش از مدل، تزریق پرامپت، درخواست‌های خارج از حوزه و داده‌های حساس شناسایی می‌شوند."
     },
     {
      "key": "orch",
      "group": "core",
-     "title": "Orchestrator",
+     "title": "ارکستراتور",
      "sub": "LangGraph",
-     "text": "Orchestrates the workflow: knowledge retrieval, tool calls, conversation memory and deciding the next step."
+     "text": "گردش کار را هماهنگ می‌کند: بازیابی دانش، فراخوانی ابزار، حافظه گفتگو و تصمیم برای گام بعدی."
     },
     {
      "key": "tools",
      "group": "core",
-     "title": "Tools and MCP",
-     "sub": "System connections",
-     "text": "Controlled access to company systems through the Model Context Protocol."
+     "title": "ابزارها و MCP",
+     "sub": "اتصال به سامانه‌ها",
+     "text": "دسترسی کنترل‌شده به سامانه‌های شرکت از طریق Model Context Protocol."
     },
     {
      "key": "llm",
      "group": "core",
-     "title": "Local LLM",
-     "sub": "vLLM on internal GPUs",
-     "text": "A quantised language model on the company's own servers, with structured output."
+     "title": "مدل زبانی محلی",
+     "sub": "vLLM روی GPUهای داخلی",
+     "text": "یک مدل زبانی کوانتیزه‌شده روی سرورهای خود شرکت، با خروجی ساخت‌یافته."
     },
     {
      "key": "guardout",
      "group": "core",
-     "title": "Output guard",
-     "sub": "Hallucination and policy",
-     "text": "Checks the answer before sending: source citations, company policy and output format."
+     "title": "محافظ خروجی",
+     "sub": "توهم و سیاست‌ها",
+     "text": "پیش از ارسال پاسخ را بررسی می‌کند: ارجاع به منبع، سیاست شرکت و قالب خروجی."
     },
     {
      "key": "answer",
      "group": "out",
-     "title": "Response",
-     "sub": "Text and structured data",
-     "text": "An answer with document references, or JSON output for another system."
+     "title": "پاسخ",
+     "sub": "متن و داده ساخت‌یافته",
+     "text": "پاسخی با ارجاع به اسناد، یا خروجی JSON برای سامانه‌ای دیگر."
     },
     {
      "key": "tts",
      "group": "out",
      "title": "TTS",
-     "sub": "Text to speech",
-     "text": "Turns the answer into speech and plays it in the same LiveKit call."
+     "sub": "متن به گفتار",
+     "text": "پاسخ را به گفتار تبدیل می‌کند و در همان تماس LiveKit پخش می‌کند."
     }
    ],
    "ops": [
-    "Langfuse: tracing and token cost",
-    "Ragas: answer faithfulness",
-    "Prompt versioning",
-    "Docker and Kubernetes",
-    "Internal GPUs"
+    "Langfuse: ردیابی و هزینه توکن",
+    "Ragas: صحت پاسخ نسبت به منبع",
+    "نسخه‌بندی پرامپت",
+    "Docker و Kubernetes",
+    "GPUهای داخلی"
    ]
   },
   {
    "id": "contact",
    "kind": "contact",
    "chapter": "contact",
-   "eyebrow": "Contact",
-   "title": "Farda Smart Solutions Development Co. (Syntex)",
+   "eyebrow": "تماس",
+   "title": "شرکت توسعه راهکارهای هوشمند فردا (سینتکس)",
    "items": [
     {
      "icon": "mail",
-     "label": "Email",
+     "label": "ایمیل",
      "value": "contact@syntex.group"
     },
     {
      "icon": "globe",
-     "label": "Website",
+     "label": "وب‌سایت",
      "value": "syntex.group"
     },
     {
      "icon": "phone",
-     "label": "Phone",
+     "label": "تلفن",
      "value": "0912 385 8118"
     }
    ],
-   "attLabel": "Attachments",
+   "attLabel": "پیوست‌ها",
    "atts": [
-    "Team and résumé",
-    "Project documentation",
-    "Licences and certificates",
-    "Technical and financial proposal"
+    "معرفی تیم و رزومه",
+    "مستندات پروژه‌ها",
+    "پروانه‌ها و گواهینامه‌ها",
+    "پیشنهاد فنی و مالی"
    ]
   }
  ]
