@@ -21,49 +21,6 @@
    ]
   },
   {
-   "id": "setare-problem",
-   "kind": "problem",
-   "chapter": "intro",
-   "eyebrow": "Setareh Aval | Our Understanding",
-   "title": "An Online Sales Platform for Telecom Products",
-   "problem": {
-    "label": "The Challenge",
-    "text": "Setareh Aval sells Hamrah-e Aval top-ups, data packages, SIM cards and modems, along with Irancell and Rightel top-ups and packages, entirely online. Every purchase has to be instant, correct and trusted, from the first tap to a delivered SIM card or modem.",
-    "outs": [
-     {
-      "icon": "clock",
-      "label": "Instant fulfilment"
-     },
-     {
-      "icon": "shield-check",
-      "label": "Payment trust"
-     },
-     {
-      "icon": "gauge",
-      "label": "Peak-load stability"
-     }
-    ]
-   },
-   "solution": {
-    "label": "How Syntex Helps",
-    "text": "We build sales platforms where buying takes a few taps: a clear catalogue across operators, secure payments, tracked physical orders and an admin panel that gives the team a live view of sales, stock and failures.",
-    "outs": [
-     {
-      "icon": "zap",
-      "label": "Faster checkout"
-     },
-     {
-      "icon": "coins",
-      "label": "Higher conversion"
-     },
-     {
-      "icon": "users",
-      "label": "Better customer experience"
-     }
-    ]
-   }
-  },
-  {
    "id": "div-intro",
    "kind": "image",
    "chapter": "intro",
@@ -1294,88 +1251,51 @@
    ]
   },
   {
-   "id": "setare-build",
+   "id": "commerce",
    "kind": "capabilities",
    "chapter": "cap",
-   "eyebrow": "Proposal | For Setareh Aval",
-   "title": "What We Would Build for Setareh Aval",
+   "eyebrow": "Capabilities",
+   "title": "Commerce, Payment and Operations Platforms",
    "cols": [
     {
      "icon": "bag",
-     "title": "Storefront and Catalogue",
+     "title": "Online Sales",
      "items": [
-      "One catalogue for top-ups and packages across MCI, Irancell and Rightel",
-      "SIM card and modem listings with variants, stock and pricing",
-      "Fast purchase flow with verification-code login and saved numbers",
-      "Responsive web app and installable mobile experience"
+      "Online and in-store purchase flows with affiliate sales, prizes and competitions",
+      "Product and package catalogues with variants, pricing and stock",
+      "Sign-up and login with verification codes and national ID",
+      "Responsive web apps that work as well on a phone as on a desktop"
      ]
     },
     {
      "icon": "credit",
-     "title": "Payments and Fulfilment",
+     "title": "Payments and Orders",
      "items": [
-      "Secure online payment with clear success and failure states",
-      "Instant top-up and package activation with automatic retry",
-      "Order tracking for SIM cards and modems, from payment to delivery",
-      "Wallet, discount codes and instalment options"
+      "Several payment plans, including instalments, with per-payment status tracking",
+      "Order lifecycle from purchase to handover, with a unique QR code for each package",
+      "Clear success, pending and failure states for every transaction",
+      "Notification service for order and payment updates"
      ]
     },
     {
      "icon": "shield-check",
      "title": "Trust and Security",
      "items": [
-      "Unique QR codes to authenticate physical products",
-      "Role-based access and full audit logs",
-      "Reconciliation reports between orders, payments and operators",
-      "Fraud and abuse checks on sensitive actions"
+      "Role-based access across customer, staff and admin panels",
+      "Full change history and audit logs on every record",
+      "Authenticity checks for physical products through QR scanning",
+      "Secure API with separate environments and automated backups"
      ]
     },
     {
      "icon": "dashboard",
-     "title": "Operations and Growth",
+     "title": "Operations and Insight",
      "items": [
-      "Admin panel with live sales, stock and failed-order dashboards",
-      "Affiliate and reseller sales with commission tracking",
-      "AI support assistant answering customer questions about packages",
-      "Analytics on conversion, repeat purchases and campaigns"
+      "Admin panels for stock, orders, users and campaigns",
+      "Live dashboards that show current status without reports",
+      "Cost and price-list calculation built into the workflow",
+      "Monitoring with Prometheus and Grafana for stability under load"
      ]
-    }
-   ]
-  },
-  {
-   "id": "setare-why",
-   "kind": "about",
-   "chapter": "cap",
-   "eyebrow": "Why Syntex",
-   "title": "Already Trusted by Hamrah-e Aval",
-   "body": "We have delivered an AI system for Hamrah-e Aval, and built online sales, payment and registration platforms for other clients. We know the operator's environment and how to build a store people trust.",
-   "sats": [
-    {
-     "icon": "code",
-     "color": "#DDB12A",
-     "label": "Built in-house"
-    },
-    {
-     "icon": "refresh",
-     "color": "#9AA4B2",
-     "label": "Fast iteration"
-    }
-   ],
-   "tags": [
-    {
-     "icon": "shield-check",
-     "color": "#5FD0F4",
-     "label": "Experience inside the MCI ecosystem"
-    },
-    {
-     "icon": "credit",
-     "color": "#38C99A",
-     "label": "Payments, QR and online sales delivered"
-    },
-    {
-     "icon": "globe",
-     "color": "#F2994A",
-     "label": "Ready to start with an MVP"
     }
    ]
   },
